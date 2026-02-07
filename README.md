@@ -21,8 +21,6 @@ The following commands are available on both singleplayer and multiplayer:
 
 • /warden_spawn_tracker
 
-I've also made the "/warden_spawn_tracker" command user-friendly by adding the missing translation strings.
-
 The following commands are only available on multiplayer:
 
 • /debugconfig (**Warning:** This command will softlock the game if it is not used properly!)
